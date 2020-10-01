@@ -19,7 +19,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
-I had an issue where I was getting an unexpected nil error. After some debugging, I found that the root cause was an incorrect API url.
+
+I had an unexpected nil error when rendering the movie grid, due to an incorrect API url.
+
 ---
 
 ## Flix Part 1
